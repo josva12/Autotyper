@@ -21,3 +21,6 @@ Designed with a sleek Catppuccin-inspired UI, this tool automates typing with pr
 ```bash
 git clone https://github.com/josva12/Autotyper.git
 cd Autotyper
+```
+
+<img width="1366" height="701" alt="image" src="https://github.com/user-attachments/assets/bbedb502-c3fd-4605-ab40-d818f5c53f7b" />
