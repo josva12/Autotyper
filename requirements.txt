@@ -1,0 +1,11 @@
+altgraph==0.17.5
+customtkinter==5.2.2
+darkdetect==0.8.0
+evdev==1.9.3
+packaging==26.0
+pyinstaller==6.19.0
+pyinstaller-hooks-contrib==2026.3
+pynput==1.8.1
+python-xlib==0.33
+setuptools==82.0.1
+six==1.17.0
